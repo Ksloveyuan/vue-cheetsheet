@@ -1,6 +1,6 @@
 # 把父组件的slot传给子组件
 
-```text
+```javascript
 Vue.component('W', {
   props: ['child'],
   template: `
