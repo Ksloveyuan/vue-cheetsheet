@@ -1,4 +1,4 @@
 # Table of contents
 
-* [vue-cheetsheet](README.md)
+* [把父组件的slot传给子组件](README.md)
 
